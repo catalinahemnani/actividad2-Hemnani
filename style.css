@@ -1,14 +1,17 @@
-p{
+p, li{
     color:black;
     font-size: 2em;
+    font-family: "Times New Roman";
 }
 
 h1{
     color: 245, 71, 242;
     font-size: 6em;
+    font-family: "Times New Roman";
 }
 
 h2{
     color: 255, 120, 253;
     font-size: 4em;
+    font-family: "Times New Roman";
 }
